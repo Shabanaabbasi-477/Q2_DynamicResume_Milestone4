@@ -1,0 +1,12 @@
+{
+  "name": "milestone4",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
